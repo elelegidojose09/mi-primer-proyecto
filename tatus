@@ -1,0 +1,14 @@
+[1mdiff --git a/mi-proyecto.md b/mi-proyecto.md[m
+[1mindex 7bab682..b13944e 100644[m
+[1m--- a/mi-proyecto.md[m
+[1m+++ b/mi-proyecto.md[m
+[36m@@ -1,3 +1,6 @@[m
+ # Mi Proyecto Git[m
+ [m
+[31m-Este es mi primer proyecto usando Git.[m
+\ No newline at end of file[m
+[32m+[m[32mEste es mi primer proyecto usando Git.[m
+[32m+[m
+[32m+[m[32m## Características[m
+[32m+[m[32m- Aprendiendo Git paso a paso[m
+\ No newline at end of file[m
